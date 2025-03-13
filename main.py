@@ -119,7 +119,7 @@ if __name__ == "__main__":
     check_keyboard_layout()
 
     # 2.5 second pause before start for preparation
-    time.sleep(2.5)
+    time.sleep(3)
 
     # Read items list from file
     with open('items.txt', 'r', encoding='utf-8') as f:
