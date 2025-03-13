@@ -1,0 +1,127 @@
+Arcanist's Etcher
+Armourer's Scrap
+Artificer's Orb
+Blacksmith's Whetstone
+Chaos Orb
+Divine Orb
+Exalted Orb
+Gemcutter's Prism
+Glassblower's Bauble
+Greater Jeweller's Orb
+Lesser Jeweller's Orb
+Mirror of Kalandra
+Orb of Alchemy
+Orb of Annulment
+Orb of Augmentation
+Orb of Chance
+Orb of Transmutation
+Perfect Jeweller's Orb
+Regal Orb
+Scroll of Wisdom
+Vaal Orb
+Artificer's Shard
+Chance Shard
+Regal Shard
+Transmutation Shard
+Essence of Battle
+Essence of Electricity
+Essence of Enhancement
+Essence of Flames
+Essence of Haste
+Essence of Ice
+Essence of Ruin
+Essence of Sorcery
+Essence of the Body
+Essence of the Infinite
+Essence of the Mind
+Essence of Torment
+Greater Essence of Battle
+Greater Essence of Electricity
+Greater Essence of Enhancement
+Greater Essence of Flames
+Greater Essence of Haste
+Greater Essence of Ice
+Greater Essence of Ruin
+Greater Essence of Sorcery
+Greater Essence of the Body
+Greater Essence of the Infinite
+Greater Essence of the Mind
+Greater Essence of Torment
+Adaptive Catalyst
+Carapace Catalyst
+Chayula's Catalyst
+Esh's Catalyst
+Flesh Catalyst
+Neural Catalyst
+Reaver Catalyst
+Sibilant Catalyst
+Skittering Catalyst
+Tul's Catalyst
+Uul-Netol's Catalyst
+Xoph's Catalyst
+Distilled Despair
+Distilled Disgust
+Distilled Envy
+Distilled Fear
+Distilled Greed
+Distilled Guilt
+Distilled Ire
+Distilled Isolation
+Distilled Paranoia
+Distilled Suffering
+Black Scythe Artifact
+Broken Circle Artifact
+Exotic Coinage
+Order Artifact
+Sun Artifact
+Soul Core of Tacati
+Soul Core of Jiquani
+Soul Core of Citaqualotl
+Soul Core of Tzamoto
+Soul Core of Azcapa
+Soul Core of Quipolatl
+Soul Core of Atmohua
+Soul Core of Zantipi
+Soul Core of Opiloti
+Soul Core of Zalatl
+Soul Core of Puhuarte
+Soul Core of Xopec
+Soul Core of Topotante
+Soul Core of Ticaba
+Soul Core of Cholotl
+Desert Rune
+Storm Rune
+Body Rune
+Rebirth Rune
+Stone Rune
+Glacial Rune
+Iron Rune
+Mind Rune
+Inspiration Rune
+Vision Rune
+Breach Splinter
+Breachstone
+An Audience with the King
+Cowardly Fate
+Deadly Fate
+Victorious Fate
+Ancient Crisis Fragment
+Faded Crisis Fragment
+Weathered Crisis Fragment
+Omen of Sinistral Alchemy
+Omen of Dextral Alchemy
+Omen of Sinistral Coronation
+Omen of Dextral Coronation
+Omen of Refreshment
+Omen of Resurgence
+Omen of Corruption
+Omen of Amelioration
+Omen of Sinistral Exaltation
+Omen of Dextral Exaltation
+Omen of Greater Annulment
+Omen of Whittling
+Omen of Sinistral Erasure
+Omen of Dextral Erasure
+Omen of Sinistral Annulment
+Omen of Dextral Annulment
+Omen of Greater Exaltation
